@@ -1,4 +1,6 @@
 #EXTM3U
+#EXTINF:0 tvg-logo="https://zaltv.co/logo.jpg" group-title="Premium IPTV & ZalTV",Long term Adult IPTV & ZalTV
+https://zaltv.co/ads/in-app-ads.mp4
 #EXTINF:0,1 BY ZalTV.co
 http://nvid101.cdnii.com/2021/1/20211552-720p.mp4
 #EXTINF:0,2 BY ZalTV.co
